@@ -1,0 +1,9 @@
+For each abbreviation here:
+
+https://gist.githubusercontent.com/Tgemayel/e6e282b9aa538bb8b8b7/raw/f498ceeff06c995afc62ed8c89d634026f954d20/gistfile1.txt
+
+Replace the "???" in this link:
+
+http://stats.nba.com/media/img/teams/logos/season/2016-17/???_logo.svg
+
+and wget the content.

@@ -1,0 +1,14 @@
+To pull the stats from NBA.com, I used the instructions found in this link:
+
+https://towardsdatascience.com/how-scraping-nba-stats-is-cooler-than-michael-jordan-49d7562ce3ef
+
+Using the endpoints outlined in this article, I was able to get stats back to the year 1996 for each of the following 
+categories:
+
+basic stats for each player
+basic stats for each team
+advanced stats for each player
+advanced stats for each team
+
+I also downloaded a few datasets from 538's basketball stats page. This wasn't done through code.
+They have a download link easily available on their webpage.

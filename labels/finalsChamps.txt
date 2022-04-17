@@ -1,0 +1,26 @@
+2021,Milwaukee Bucks
+2020,Los Angeles Lakers
+2019,Toronto Raptors
+2018,Golden State Warriors
+2017,Golden State Warriors
+2016,Cleveland Cavaliers
+2015,Golden State Warriors
+2014,San Antonio Spurs
+2013,Miami Heat
+2012,Miami Heat
+2011,Dallas Mavericks
+2010,Los Angeles Lakers
+2009,Los Angeles Lakers
+2008,Boston Celtics
+2007,San Antonio Spurs
+2006,Miami Heat
+2005,San Antonio Spurs
+2004,Detroit Pistons
+2003,San Antonio Spurs
+2002,Los Angeles Lakers
+2001,Los Angeles Lakers
+2000,Los Angeles Lakers
+1999,San Antonio Spurs
+1998,Chicago Bulls
+1997,Chicago Bulls
+1996,Chicago Bulls

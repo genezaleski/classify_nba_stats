@@ -1,0 +1,10 @@
+To get the MVPs, I copied the list from here:
+http://www.espn.com/nba/history/awards/_/id/33
+back to the year 1996, then just awk'd out the columns I didn't want. 
+
+To get the all stars, I copied this list for every decade back to 96,
+then created a shell script found in the labels directory to format the stuff.
+https://www.justallstar.com/nba-all-star-game/player-lists/rosters/
+
+Finals MVPs similar to list of MVPs from her
+http://www.espn.com/nba/history/awards/_/id/43

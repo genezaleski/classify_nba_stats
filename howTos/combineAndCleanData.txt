@@ -1,0 +1,5 @@
+To do this, I found some straightforward code online to combine CSV. 
+
+https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
+
+This worked fine. Then I combined the advanced and non-advanced csv by column. I Do this by using the names and years of players.

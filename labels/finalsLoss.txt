@@ -1,0 +1,26 @@
+2021,Phoenix Suns
+2020,Miami Heat
+2019,Golden State Warriors
+2018,Cleveland Cavaliers
+2017,Cleveland Cavaliers
+2016,Golden State Warriors
+2015,Cleveland Cavaliers
+2014,Miami Heat
+2013,San Antonio Spurs
+2012,Oklahoma City Thunder
+2011,Miami Heat
+2010,Boston Celtics
+2009,Orlando Magic
+2008,Los Angeles Lakers
+2007,Cleveland Cavaliers
+2006,Dallas Mavericks
+2005,Detroit Pistons
+2004,Los Angeles Lakers
+2003,New Jersey Nets
+2002,New Jersey Nets
+2001,Philadelphia 76ers
+2000,Indiana Pacers
+1999,New Jersey Nets
+1998,Utah Jazz
+1997,Utah Jazz
+1996,Seattle SuperSonics
