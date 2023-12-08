@@ -12,7 +12,7 @@
   <p align="center">
     Rating NBA statistics based on how good they are at predicting outcomes using ML
     <br />
-    <a href="https://github.com/genezaleski/classify_nba_stats/classifyingNbaStatsXGBoost.pdf"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/genezaleski/classify_nba_stats/blob/master/classifyingNbaStatsXGBoost.pdf"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
