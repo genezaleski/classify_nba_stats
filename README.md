@@ -6,9 +6,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/genezaleski/classify_nba_stats">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Classifying the Quality of NBA Statistics</h3>
 
@@ -83,14 +80,14 @@ Additional python libraries that need to be installed include:
     sklearn
     xgboost
     
-An installation script can be found at the top level of this repository <a href="#readme-top">here.</a>
+An installation script can be found at the top level of this repository <a href="https://github.com/genezaleski/classify_nba_stats/blob/master/install.sh">here.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-An driver script can be found at the top level of this repository <a href="#readme-top">here.</a>
+An driver script can be found at the top level of this repository <a href="https://github.com/genezaleski/classify_nba_stats/blob/master/run.sh">here.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
